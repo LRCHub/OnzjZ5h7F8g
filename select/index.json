@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "シーサイド",
+  "base_artist": "菅原圭",
+  "createdAt": "2026-03-14T14:18:09.569724Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワンルーム・シーサイド・ステップ",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/01_ワンルーム・シーサイド・ステップ_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "One-Room Seaside Step [ワンルーム・シーサイド・ステップ]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_One-Room_Seaside_Step_[ワンルーム・シーサイド・ステップ]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シーサイド・ラブ(The One That You Love)[Live]",
+      "artist": "Air Supply",
+      "has_synced": false,
+      "path": "select/03_シーサイド・ラブ(The_One_That_You_Love)[Live]_Air_Supply.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "シーサイド・コーポラス",
+      "artist": "Miyuki Nakajima",
+      "has_synced": false,
+      "path": "select/04_シーサイド・コーポラス_Miyuki_Nakajima.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "シーサイド・コーポラス",
+      "artist": "中島みゆき",
+      "has_synced": false,
+      "path": "select/05_シーサイド・コーポラス_中島みゆき.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ストラトキャスター　シーサイド",
+      "artist": "Suspended 4th",
+      "has_synced": true,
+      "path": "select/06_ストラトキャスター_シーサイド_Suspended_4th.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シーサイド・シークェンス〜人喰いマーメイドとの死闘篇",
+      "artist": "KIRINJI",
+      "has_synced": false,
+      "path": "select/07_シーサイド・シークェンス〜人喰いマーメイドとの死闘篇_KIRINJI.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "シーサイド",
+      "artist": "Kei Sugawara",
+      "has_synced": true,
+      "path": "select/08_シーサイド_Kei_Sugawara.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "シーサイド・シークェンス - 人喰いマーメイドとの死闘篇",
+      "artist": "KIRINJI",
+      "has_synced": true,
+      "path": "select/09_シーサイド・シークェンス_-_人喰いマーメイドとの死闘篇_KIRINJI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シーサイド",
+      "artist": "菅原 圭",
+      "has_synced": false,
+      "path": "select/pl_01_シーサイド_菅原_圭.txt"
+    }
+  ]
+}
